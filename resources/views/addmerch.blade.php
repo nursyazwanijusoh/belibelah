@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">{{ __('Add new item') }}</div>
+                <div class="card-header">{{ __('tambah item baru') }}</div>
 
                 @if(isset($alert))
                 <div class="alert alert-success" role="alert">
