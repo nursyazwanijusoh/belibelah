@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    GITHUBBB
                 </div>
 
                 <div class="links">
